@@ -20,7 +20,7 @@ I'm a passionate developer who loves building creative solutions and learning ne
 
 ## 📫 How to reach me
 - Email: [jestebanjimenez2002@hotmail.com](mailto:jestebanjimenez2002@hotmail.com)
-- LinkedIn: [Juan Esteban Jimenez]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/juan-esteban-jimenez-garcia-6595aa2b3/))
+- LinkedIn: [Juan Esteban Jimenez](https://www.linkedin.com/in/juan-esteban-jimenez-garcia-6595aa2b3/)
 
 <!--
 **JonesProgrammer/JonesProgrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
